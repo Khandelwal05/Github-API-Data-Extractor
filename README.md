@@ -57,14 +57,14 @@ headers={
 ## Sample Images that will be generated 
 Github Trophies of user
 
-![image](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/a0903b8f-e66b-44bc-b475-3497cc87b706)
+![Screenshot 2024-06-06 091554](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/8b1e46fb-c158-4055-b6f8-3c9ae1bdd495)
 
 Most Languages Used<br/>
 
-![image](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/43c4f2f1-a89c-4ca0-8834-b4073a28f656)
+![Screenshot 2024-06-06 091632](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/40c6087c-33a3-47de-a99a-a1d141b8403e)
 
 Streak <br/>
-![image](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/220aa399-69e1-4734-8c3d-8887a914c214)
+![image](https://github.com/Khandelwal05/Github-API-Data-Extractor/assets/114740796/053e18b8-7bb9-4694-b095-977541a60080)
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
