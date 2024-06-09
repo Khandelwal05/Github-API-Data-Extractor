@@ -5,7 +5,7 @@ import webbrowser
 import os
 
 
-def fetch_user_details(url,headers,queruy_params):
+def fetch_user_details(url,headers,query_params):
     res=requests.get(url,headers=headers,params=query_params)
     if (res.status_code==200):
         # print(res.status_code)
@@ -25,7 +25,7 @@ def fetch_user_details(url,headers,queruy_params):
         print(("Error Occured, may be u inputed wrong user name"))
         username=input("Enter the username here")
         url=f'https://api.github.com/users/{username}'
-        fetch_user_details(url,headers,queruy_params)
+        fetch_user_details(url,headers,query_params)
     return data
 
 
